@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Application Overview Report REPORTP1" errors="0" tests="1" failures="1" time="76.684" timestamp="2015-04-30T09:12:15">
+  <testcase classname="Application Overview Report REPORTP1" name="Application Overview E2E Test" time="76.674"><failure type="expect" message="TypeError: Request path contains unescaped characters.">TypeError: Request path contains unescaped characters.
+    at new ClientRequest (_http_client.js:73:11)
+    at Object.exports.request (http.js:49:10)
+    at [object Object].deleteProject (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\shared\common\raAppServices.js:835:18)
+    at dataClean (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\applicationOverview.e2e.test.js:116:31)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\applicationOverview.e2e.test.js:178:9)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\jasminewd\index.js:94:14
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+    at [object Object].webdriver.promise.ControlFlow.runEventLoop_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1518:8)
+    at [object Object].wrapper [as _onTimeout] (timers.js:265:14)
+    at Timer.listOnTimeout (timers.js:110:15)
+==== async task ====
+Asynchronous test function: afterEach()
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\jasminewd\index.js:93:33)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at [object Object].jasmine.Block.execute (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1174:17)
+    at [object Object].jasmine.Queue.next_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2209:31)
+    at [object Object]._onTimeout (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2199:18)
+    at Timer.listOnTimeout (timers.js:110:15)==== async task ====
+Error
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\applicationOverview.e2e.test.js:177:5)
+    at [object Object].jasmine.Env.describe_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:913:21)
+    at [object Object].jasmine.Env.describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:898:15)
+    at describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:658:27)
+    at Object.&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\applicationOverview.e2e.test.js:2:1)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)</failure></testcase>
+</testsuite>
+</testsuites>

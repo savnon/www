@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Tag management Page SYSP1" errors="0" tests="0" failures="0" time="0" timestamp="2015-04-30T09:50:58">
+</testsuite>
+<testsuite name="Tag management Page SYSP1.Process Execution Sanity" errors="0" tests="4" failures="0" time="443.151" timestamp="2015-04-30T09:43:35">
+  <testcase classname="Tag management Page SYSP1.Process Execution Sanity" name="Create Edit Delete Environment" time="31.073"></testcase>
+  <testcase classname="Tag management Page SYSP1.Process Execution Sanity" name="Select un select one tag and check in processExecution page" time="139.088"></testcase>
+  <testcase classname="Tag management Page SYSP1.Process Execution Sanity" name="Select all remove all tag and check in processExecution page" time="150.598"></testcase>
+  <testcase classname="Tag management Page SYSP1.Process Execution Sanity" name="Find Usage" time="122.371"></testcase>
+</testsuite>
+</testsuites>

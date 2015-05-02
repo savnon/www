@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Environment Overview Report REPORTP1" errors="0" tests="1" failures="0" time="231.448" timestamp="2015-04-30T09:13:19">
+  <testcase classname="Environment Overview Report REPORTP1" name="Environment Overview Report Test" time="231.426"></testcase>
+</testsuite>
+</testsuites>

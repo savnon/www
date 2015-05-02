@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="processDesigner Component Tab Sanity SYSP1" errors="0" tests="0" failures="0" time="0" timestamp="2015-04-30T09:43:30">
+</testsuite>
+<testsuite name="processDesigner Component Tab Sanity SYSP1.Component Tab" errors="0" tests="22" failures="0" time="1390.123" timestamp="2015-04-30T09:20:20">
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="create component uxing+" time="36.802"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="create component main area+" time="54.895"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="duplicate component" time="46.98"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="share component" time="38.508"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="switch revision" time="87.209"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="map server type" time="37.643"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="select component folder/ Actions/Flows Category" time="36.514"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="Select Expend Collapse Actions Category" time="43.158"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="Select Expend Collapse Flow Category" time="45.956"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="copy past delete Action Category" time="69.535"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="create action" time="49.678"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="create flow" time="39.698"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="add action to flow" time="79.813"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="add flow to flow" time="79.061"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="add two action to flow Create Link delete link " time="115.513"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="action find Usage" time="89.07"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="copy rename paste cut delete action" time="117.77"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="copy  paste  delete flow" time="74.904"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="create action window filter" time="44.73"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="component tab filter" time="34.271"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="test action" time="68.276"></testcase>
+  <testcase classname="processDesigner Component Tab Sanity SYSP1.Component Tab" name="test flow" time="100.058"></testcase>
+</testsuite>
+</testsuites>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Artifact Report REPORTP1" errors="0" tests="1" failures="1" time="36.701" timestamp="2015-04-30T09:12:17">
+  <testcase classname="Artifact Report REPORTP1" name="Artifact Report Test" time="36.693"><failure type="expect" message="NoSuchElementError: No element found using locator: By.xpath(&amp;quot;//li/a//span[text()=\&amp;quot;artifact1\&amp;quot;]&amp;quot;)">NoSuchElementError: No element found using locator: By.xpath(&amp;quot;//li/a//span[text()=\&amp;quot;artifact1\&amp;quot;]&amp;quot;)
+    at new bot.Error (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:113:18)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\lib\element.js:671:15
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1582:15
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+    at notify (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:465:12)
+    at notifyAll (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:442:7)
+    at resolve (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:420:7)
+    at fulfill (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:535:5)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1582:15
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+==== async task ====
+Asynchronous test function: beforeEach()
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\jasminewd\index.js:93:33)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at [object Object].jasmine.Block.execute (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1174:17)
+    at [object Object].jasmine.Queue.next_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2209:31)
+    at [object Object]._onTimeout (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2199:18)
+    at Timer.listOnTimeout (timers.js:110:15)
+Error
+    at [object Object].ElementArrayFinder.applyAction_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\lib\element.js:390:21)
+    at [object Object].self.(anonymous function) [as click] (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\lib\element.js:77:19)
+    at [object Object].self.(anonymous function) [as click] (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\lib\element.js:698:11)
+    at [object Object].selectArtifactType (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\shared\pages\artifactsManagementPage.js:24:66)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\artifactReport.e2e.test.js:37:25)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\jasminewd\index.js:94:14
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+    at [object Object].webdriver.promise.ControlFlow.runEventLoop_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1518:8)
+    at [object Object].wrapper [as _onTimeout] (timers.js:265:14)
+    at Timer.listOnTimeout (timers.js:110:15)==== async task ====
+Error
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\artifactReport.e2e.test.js:34:5)
+    at [object Object].jasmine.Env.describe_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:913:21)
+    at [object Object].jasmine.Env.describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:898:15)
+    at describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:658:27)
+    at Object.&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\artifactReport.e2e.test.js:3:1)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)</failure><failure type="expect" message="Error: Wait timed out after 10197ms">Error: Wait timed out after 10197ms
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1425:29
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1582:15
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+    at notify (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:465:12)
+    at [object Object].then (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:522:7)
+    at Object.webdriver.promise.asap (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:767:11)
+    at newFrame.onComplete (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1670:25)
+    at [object Object].webdriver.promise.Frame_.notify_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1914:5)
+    at [object Object]._onTimeout (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1901:11)
+    at Timer.listOnTimeout (timers.js:110:15)
+==== async task ====
+    at [object Object].webdriver.promise.ControlFlow.wait (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1410:15)
+    at [object Object].webdriver.WebDriver.wait (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:646:21)
+    at [object Object].waitForElementPresent (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\shared\pages\dashboardPage.js:242:24)
+    at [object Object].openAddContentDialog (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\shared\pages\dashboardPage.js:215:14)
+    at [object Object].addReportToDashboardByTitle (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\shared\pages\dashboardPage.js:589:14)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\artifactReport.e2e.test.js:72:23)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\jasminewd\index.js:94:14
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+    at [object Object].webdriver.promise.ControlFlow.runEventLoop_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1518:8)
+==== async task ====
+Asynchronous test function: it()
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\jasminewd\index.js:93:33)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at [object Object].jasmine.Block.execute (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1174:17)
+    at [object Object].jasmine.Queue.next_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2209:31)
+    at [object Object]._onTimeout (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2199:18)
+    at Timer.listOnTimeout (timers.js:110:15)==== async task ====
+Error
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\artifactReport.e2e.test.js:69:5)
+    at [object Object].jasmine.Env.describe_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:913:21)
+    at [object Object].jasmine.Env.describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:898:15)
+    at describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:658:27)
+    at Object.&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\artifactReport.e2e.test.js:3:1)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)</failure><failure type="expect" message="Error: Wait timed out after 10055ms">Error: Wait timed out after 10055ms
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1425:29
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1582:15
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+    at notify (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:465:12)
+    at [object Object].then (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:522:7)
+    at Object.webdriver.promise.asap (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:767:11)
+    at newFrame.onComplete (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1670:25)
+    at [object Object].webdriver.promise.Frame_.notify_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1914:5)
+    at [object Object]._onTimeout (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1901:11)
+    at Timer.listOnTimeout (timers.js:110:15)
+==== async task ====
+    at [object Object].webdriver.promise.ControlFlow.wait (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1410:15)
+    at [object Object].webdriver.WebDriver.wait (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:646:21)
+    at [object Object].waitForElementPresent (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\shared\pages\dashboardPage.js:242:24)
+    at [object Object].deleteActiveDashboard (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\shared\pages\dashboardPage.js:492:14)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\artifactReport.e2e.test.js:90:23)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\jasminewd\index.js:94:14
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+    at [object Object].webdriver.promise.ControlFlow.runEventLoop_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1518:8)
+    at [object Object].wrapper [as _onTimeout] (timers.js:265:14)
+==== async task ====
+Asynchronous test function: afterEach()
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\jasminewd\index.js:93:33)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at [object Object].jasmine.Block.execute (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1174:17)
+    at [object Object].jasmine.Queue.next_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2209:31)
+    at [object Object]._onTimeout (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2199:18)
+    at Timer.listOnTimeout (timers.js:110:15)==== async task ====
+Error
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\artifactReport.e2e.test.js:89:5)
+    at [object Object].jasmine.Env.describe_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:913:21)
+    at [object Object].jasmine.Env.describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:898:15)
+    at describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:658:27)
+    at Object.&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\reports\artifactReport.e2e.test.js:3:1)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)</failure></testcase>
+</testsuite>
+</testsuites>

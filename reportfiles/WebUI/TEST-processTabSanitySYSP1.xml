@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="processTab Sanity SYSP1" errors="0" tests="0" failures="0" time="0" timestamp="2015-04-30T09:29:47">
+</testsuite>
+<testsuite name="processTab Sanity SYSP1.Processes Tab" errors="0" tests="8" failures="0" time="436.739" timestamp="2015-04-30T09:22:30">
+  <testcase classname="processTab Sanity SYSP1.Processes Tab" name="create process category by arrow down+" time="36.817"></testcase>
+  <testcase classname="processTab Sanity SYSP1.Processes Tab" name="create process by arrow down" time="46.582"></testcase>
+  <testcase classname="processTab Sanity SYSP1.Processes Tab" name="copy paste delete process" time="59.776"></testcase>
+  <testcase classname="processTab Sanity SYSP1.Processes Tab" name="check process conflict" time="44.657"></testcase>
+  <testcase classname="processTab Sanity SYSP1.Processes Tab" name="publish process on main page" time="49.197"></testcase>
+  <testcase classname="processTab Sanity SYSP1.Processes Tab" name="publish process by arrow down" time="57.104"></testcase>
+  <testcase classname="processTab Sanity SYSP1.Processes Tab" name="manage server type " time="85.615"></testcase>
+  <testcase classname="processTab Sanity SYSP1.Processes Tab" name="test process" time="56.965"></testcase>
+</testsuite>
+</testsuites>

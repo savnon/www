@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="ShareComponemtSanity SYSP1" errors="0" tests="0" failures="0" time="0" timestamp="2015-04-30T09:51:54">
+</testsuite>
+<testsuite name="ShareComponemtSanity SYSP1.SharedComponentSanity" errors="0" tests="32" failures="0" time="1314.582" timestamp="2015-04-30T09:30:00">
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="create Application before all tests have started" time="22.667"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13899 check shared component header" time="7.089"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13900 check shared component red input" time="4.246"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13901 check shared component invalid chars" time="4.545"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13902 cancel new shared component dialog" time="5.14"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13905 rename shared component by main context" time="21.286"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="create delete shared component using+ and delete using main area revision drop down" time="16.018"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="rename shared component by drop down menu" time="20.631"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="rename shared component with main area drop down menu" time="20.498"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="create action" time="40.495"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="create flow" time="29.167"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="add action to flow" time="67.507"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="commit by drop down menu" time="34.184"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="commit by main area reversion drop down menu" time="66.774"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="branch by main area drop down menu" time="35.663"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="branch by component tree drop down menu" time="29.912"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="commit 2 times " time="35.716"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="switch revision" time="45.345"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="assign to shared component to application" time="59.482"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="map server type" time="62.166"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="Select Expend Collapse Actions Category" time="30.258"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="Select Expend Collapse Flow Category" time="29.193"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="find usage shared component/revision drop down  and main area" time="84.109"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="copy rename paste cut delete action" time="110.578"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="copy  paste delete flow" time="61.817"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13908 add an action category in Main Context" time="25.906"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13909 add flow button in Main Context" time="27.047"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13910 add flow Link in Main Context" time="31.888"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13911 add an flow category in Main Context" time="26.987"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13912 E2E run" time="207.95"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="13903 check filter" time="31.018"></testcase>
+  <testcase classname="ShareComponemtSanity SYSP1.SharedComponentSanity" name="delete Application after all tests have finished" time="19.2"></testcase>
+</testsuite>
+</testsuites>

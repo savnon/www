@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="ActionSanity SYSP1" errors="0" tests="5" failures="0" time="447.085" timestamp="2015-04-30T09:14:57">
+  <testcase classname="ActionSanity SYSP1" name="Action set Input Tab value after created by sendKeys" time="87.59"></testcase>
+  <testcase classname="ActionSanity SYSP1" name="Action set Input Tab value after created by dropdown param" time="94.376"></testcase>
+  <testcase classname="ActionSanity SYSP1" name="Action set Input Tab value after created by popup dialog param" time="102.336"></testcase>
+  <testcase classname="ActionSanity SYSP1" name="Action set Outputs Tab value after created by popup dialog param" time="99.73"></testcase>
+  <testcase classname="ActionSanity SYSP1" name="Action set Settings Tab value after created by sendKeys" time="63.022"></testcase>
+</testsuite>
+</testsuites>

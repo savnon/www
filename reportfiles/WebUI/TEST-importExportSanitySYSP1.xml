@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="importExportSanity SYSP1" errors="0" tests="0" failures="0" time="0" timestamp="2015-04-30T09:18:35">
+</testsuite>
+<testsuite name="importExportSanity SYSP1.importExportModel" errors="0" tests="4" failures="0" time="74.648" timestamp="2015-04-30T09:17:20">
+  <testcase classname="importExportSanity SYSP1.importExportModel" name="export button is disabled when nothing selected" time="19.909"></testcase>
+  <testcase classname="importExportSanity SYSP1.importExportModel" name="export button is enabled when some application selected" time="18.376"></testcase>
+  <testcase classname="importExportSanity SYSP1.importExportModel" name="export button is enabled when some shared component selected" time="14.319"></testcase>
+  <testcase classname="importExportSanity SYSP1.importExportModel" name="export an application" time="21.985"></testcase>
+</testsuite>
+</testsuites>

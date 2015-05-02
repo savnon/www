@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="appModelSanity SYSP1" errors="0" tests="0" failures="0" time="0" timestamp="2015-04-30T09:21:51">
+</testsuite>
+<testsuite name="appModelSanity SYSP1.applicationModel" errors="0" tests="10" failures="0" time="284.119" timestamp="2015-04-30T09:17:07">
+  <testcase classname="appModelSanity SYSP1.applicationModel" name="create test application" time="18.983"></testcase>
+  <testcase classname="appModelSanity SYSP1.applicationModel" name="create edit delete  application" time="35.226"></testcase>
+  <testcase classname="appModelSanity SYSP1.applicationModel" name="Opens a new app window and cancels without saving" time="10.311"></testcase>
+  <testcase classname="appModelSanity SYSP1.applicationModel" name="add edit delete a Server type" time="24.73"></testcase>
+  <testcase classname="appModelSanity SYSP1.applicationModel" name="create edit delete an Architecture" time="26.432"></testcase>
+  <testcase classname="appModelSanity SYSP1.applicationModel" name="Map unmap architecture to server type" time="33.439"></testcase>
+  <testcase classname="appModelSanity SYSP1.applicationModel" name="Map unmap component to server type" time="27.152"></testcase>
+  <testcase classname="appModelSanity SYSP1.applicationModel" name="uses the Server Types filter" time="47.384"></testcase>
+  <testcase classname="appModelSanity SYSP1.applicationModel" name="uses the Architecture filter" time="46.785"></testcase>
+  <testcase classname="appModelSanity SYSP1.applicationModel" name="delete test application" time="13.645"></testcase>
+</testsuite>
+</testsuites>

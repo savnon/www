@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="processDesinger ComponentTabParameterSanity SYSP1" errors="0" tests="0" failures="0" time="0" timestamp="2015-04-30T10:07:31">
+</testsuite>
+<testsuite name="processDesinger ComponentTabParameterSanity SYSP1.Application Level " errors="0" tests="37" failures="0" time="2479.055" timestamp="2015-04-30T09:18:47">
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13792 create edit delete folder" time="55.53"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13793 copy paste folder" time="48.203"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13794 create delete string parameter and set value by sendKey" time="40.248"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13795 create string parameter and set parameter as value by drop down search param" time="73.798"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13796 create string parameter and set parameter as value by pop up search param" time="75.715"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13797 edit string parameter and check 4 scopes" time="81.531"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13798 edit string parameter and check name and value" time="70.617"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13799 create delete boolean parameter and set value by sendKey" time="48.34"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13800 create boolean parameter and set parameter as value by drop down search param" time="85.623"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13801 edit boolean parameter and check 4 scopes" time="91.346"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13802 edit boolean parameter and check name and value" time="71.685"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13803 create delete password parameter and set value by sendKey" time="41.848"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13804 edit password and check 4 scopes" time="87.22"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13805 edit  password and check name" time="54.774"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13806 create delete number parameter and set value by sendKey" time="43.085"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13807 create number parameter and set parameter as value by drop down search param" time="85.028"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13808 edit number parameter and check 4 scopes" time="77.533"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13809 edit number parameter and check name and value" time="67.229"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13810 create delete result set parameter and set empty value" time="35.663"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13811 create result set parameter and set parameter as value by drop down search param" time="59.043"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13812 edit result set parameter and check name" time="49.175"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13767 create delete string array parameter and set value by sendKey" time="44.197"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13768 create string array parameter and set parameter as value by drop down search param" time="78"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13769 create string array parameter and set parameter as value by drop down search param" time="79.043"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13770 edit string array parameter and check 4 scopes" time="85.469"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13771 edit string Array parameter and check name and value" time="78.852"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13772 create delete boolean array parameter and set value by sendKey" time="44.773"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13773 create boolean array parameter and set parameter as value by drop down search param" time="93.093"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13774 create boolean array parameter and set parameter as value by drop down search param" time="75.103"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13775 edit boolean array parameter and check 4 scopes" time="89.376"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13776 edit boolean array parameter and check name and value" time="78.716"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13777 create delete number array parameter and set value by sendKey" time="42.346"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13778 create number array parameter and set parameter as value by drop down search param" time="74.697"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13779 create number array parameter and set Array parameter as value by drop down search param" time="74.371"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13780 edit number array parameter and check 4 scopes" time="81.599"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="13781 edit number array parameter and check name and value" time="75.463"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Application Level " name="create delete predefined options parameter and set value by sendKey" time="40.598"></testcase>
+</testsuite>
+<testsuite name="processDesinger ComponentTabParameterSanity SYSP1.Component Level" errors="0" tests="6" failures="1" time="445.454" timestamp="2015-04-30T10:00:06">
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Component Level" name="13783 create delete collection element parameter" time="44.074"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Component Level" name="13784 create string within collection element parameter" time="59.688"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Component Level" name="13785 copy parameter  and paste to a folder" time="93.623"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Component Level" name="13786 cut parameter and paste to a folder" time="82.717"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Component Level" name="13787 find usage" time="82.137"></testcase>
+  <testcase classname="processDesinger ComponentTabParameterSanity SYSP1.Component Level" name="13788 move usage" time="83.195"><failure type="expect" message="ElementNotVisibleError: element not visible
+  (Session info: chrome=42.0.2311.90)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 72 milliseconds
+Build info: version: &amp;apos;2.45.0&amp;apos;, revision: &amp;apos;5017cb8&amp;apos;, time: &amp;apos;2015-02-26 23:59:50&amp;apos;
+System info: host: &amp;apos;RA-NTLY-4084&amp;apos;, ip: &amp;apos;10.130.174.30&amp;apos;, os.name: &amp;apos;Windows Server 2008 R2&amp;apos;, os.arch: &amp;apos;x86&amp;apos;, os.version: &amp;apos;6.1&amp;apos;, java.version: &amp;apos;1.8.0_40&amp;apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\2\scoped_dir4000_26120}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=42.0.2311.90, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d39065b8e744eb8cfc013e882f865c89">ElementNotVisibleError: element not visible
+  (Session info: chrome=42.0.2311.90)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 72 milliseconds
+Build info: version: &amp;apos;2.45.0&amp;apos;, revision: &amp;apos;5017cb8&amp;apos;, time: &amp;apos;2015-02-26 23:59:50&amp;apos;
+System info: host: &amp;apos;RA-NTLY-4084&amp;apos;, ip: &amp;apos;10.130.174.30&amp;apos;, os.name: &amp;apos;Windows Server 2008 R2&amp;apos;, os.arch: &amp;apos;x86&amp;apos;, os.version: &amp;apos;6.1&amp;apos;, java.version: &amp;apos;1.8.0_40&amp;apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\2\scoped_dir4000_26120}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=42.0.2311.90, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d39065b8e744eb8cfc013e882f865c89
+    at new bot.Error (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:113:18)
+    at Object.bot.response.checkResponse (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:362:20
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1582:15
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+    at notify (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:465:12)
+    at notifyAll (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:442:7)
+    at resolve (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:420:7)
+    at [object Object].fulfill (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:535:5)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1520:10
+==== async task ====
+WebElement.sendKeys([object Object])
+    at [object Object].webdriver.WebDriver.schedule (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:345:15)
+    at [object Object].webdriver.WebElement.schedule_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1727:23)
+    at [object Object].webdriver.WebElement.sendKeys (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1888:15)
+    at actionFn (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\lib\element.js:75:32)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\lib\element.js:394:17
+    at Array.forEach (native)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\lib\element.js:393:9
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1582:15
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+==== async task ====
+Asynchronous test function: it()
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\jasminewd\index.js:93:33)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at [object Object].jasmine.Block.execute (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1174:17)
+    at [object Object].jasmine.Queue.next_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2209:31)
+    at [object Object]._onTimeout (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2199:18)
+    at Timer.listOnTimeout (timers.js:110:15)
+Error
+    at [object Object].ElementArrayFinder.applyAction_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\lib\element.js:390:21)
+    at [object Object].self.(anonymous function) [as sendKeys] (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\lib\element.js:77:19)
+    at [object Object].self.(anonymous function) [as sendKeys] (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\lib\element.js:698:11)
+    at [object Object].searchOnTreeByName (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\shared\common\treeViewOperations.js:91:49)
+    at [object Object].moveUsage (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\shared\pages\paramTreeOperations.js:408:14)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\studio\processDesignerComponentTabParameterSanity.js:848:23)
+    at C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\jasminewd\index.js:94:14
+    at [object Object].webdriver.promise.ControlFlow.runInNewFrame_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1654:20)
+    at [object Object].webdriver.promise.ControlFlow.runEventLoop_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1518:8)
+    at [object Object].wrapper [as _onTimeout] (timers.js:265:14)==== async task ====
+Error
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\studio\processDesignerComponentTabParameterSanity.js:832:9)
+    at [object Object].jasmine.Env.describe_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:913:21)
+    at [object Object].jasmine.Env.describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:898:15)
+    at describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:658:27)
+    at [object Object].&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\studio\processDesignerComponentTabParameterSanity.js:713:5)
+    at [object Object].jasmine.Env.describe_ (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:913:21)
+    at [object Object].jasmine.Env.describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:898:15)
+    at describe (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\nl-build-utils\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:658:27)
+    at Object.&amp;lt;anonymous&amp;gt; (C:\Eclipse\release-automation\trunk-smoke\nolio\platform\server\ui\web-ui\test\protractor\suites\studio\processDesignerComponentTabParameterSanity.js:6:1)</failure></testcase>
+</testsuite>
+</testsuites>
